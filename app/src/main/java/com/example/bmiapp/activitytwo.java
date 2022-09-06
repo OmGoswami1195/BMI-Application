@@ -18,7 +18,7 @@ public class activitytwo extends AppCompatActivity {
 
 
     }
-
+// Check !!
     public void calcbmi(View view){
 
         double height = 0;
